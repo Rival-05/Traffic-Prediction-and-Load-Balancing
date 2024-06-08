@@ -1,0 +1,15 @@
+{
+  "name": "traffic-prediction-and-load-balancing",
+  "version": "1.0.0",
+  "description": "This Project aims to build a Predictive Analysis Model to ensure that Load Balancing and Traffic Prediction is properly handled in Enterprise Networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
